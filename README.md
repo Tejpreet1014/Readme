@@ -24,8 +24,10 @@ I am passionate about uncovering insights from data and leveraging analytics to 
 - **Data Science:** Data Mining, Machine Learning, Predictive Analytics  
 - **Database & Cloud:** SQL, NoSQL  
 
-## 📂 **Projects**  
+## 📂 **Projects & Labs**  
 🔹 **[My Data Science Projects](https://github.com/Tejpreet1014/Project-Data-Science)** – A collection of projects showcasing my skills in data analytics, machine learning, and visualization.  
+
+🔹 **[R Programming Labs](https://github.com/Tejpreet1014/MyLabs)** – Some of the labs and problems I have currently been working on in my current R programming class.  
 
 ## 📫 **Let's Connect!**  
 ✉️ **Email:** tejpreetjaswal@gmail.com  
