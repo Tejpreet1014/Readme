@@ -15,9 +15,8 @@ Tech Stack & Skills
 - Database & Cloud: SQL, NoSQL  
 
 Projects 
-🔹 **[Project 1 Name](GitHub Repository Link)** – *Brief description of the project*  
-🔹 **[Project 2 Name](GitHub Repository Link)** – *Brief description of the project*  
-🔹 **[Project 3 Name](GitHub Repository Link)** – *Brief description of the project*  
+Some of the Projects I have done as an aspiring Data Scientist
+https://github.com/Tejpreet1014/Project-Data-Science
 
 Let's Connect!  
 Email - tejpreetjaswal@gmail.com
